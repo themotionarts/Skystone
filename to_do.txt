@@ -14,3 +14,8 @@ baterie pentru robot si charging time
 meniu, settings, si play match
 
 skills(indemanare-cat de mult scapa cubul)
+
+very easy- ai ajutor si ceilalti scapa piese
+easy-ai ajutor si ceilalti nu mai scapa piese
+medium-nu ai ajutor si ceilalti nu scapa piese
+hard-nu ai ajutor dar ambii scapati piese
