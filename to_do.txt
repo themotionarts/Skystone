@@ -1,11 +1,8 @@
 *algoritm de luare a cuburilor pentru vr
 mapa de vr
-widgeturi pentru in-game:pauza, loading, you have too many minerals, you have to take a mineral first, settings, quests, match final.
-/*mapa de lobby
-mapa de multiplayer*/
-mapa de mainMenu
-use cull distance volume for optimization: link for docs https://docs.unrealengine.com/en-US/Engine/Actors/Volumes/index.html?utm_source=editor&utm_medium=docs&utm_campaign=rich_tooltips#Volume%20Types
-make documentation actors appear and dissapear
+widgeturi pentru in-game: you have too many minerals, you have to take a mineral first, settings, quests.
+
+
 Music for game
 
 widgets: tips actors and widgets are destroyed only after completing widget steps
@@ -14,10 +11,6 @@ coming on:mesh si animatii robot- catalin
 
 baterie pentru robot si charging time
 
-fundal de zici ca esti pe luna
-paralaxing la pereti
-
-pun o cutie in loc de robot pana e gata in creo
 meniu, settings, si play match
 
-Make that fucking bot move
+skills(indemanare-cat de mult scapa cubul)
