@@ -9,8 +9,6 @@ widgets: tips actors and widgets are destroyed only after completing widget step
 
 coming on:mesh si animatii robot- catalin
 
-baterie pentru robot si charging time
-
 meniu, settings, si play match
 
 skills(indemanare-cat de mult scapa cubul)

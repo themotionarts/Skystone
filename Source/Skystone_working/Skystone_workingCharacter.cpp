@@ -120,7 +120,7 @@ void ASkystone_workingCharacter::MoveForward(float Value)
 
 		// get forward vector
 		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
-		AddMovementInput(Direction, Value);
+		AddMovementInput(Direction, Value/2);
 	}
 }
 
@@ -136,6 +136,6 @@ void ASkystone_workingCharacter::MoveRight(float Value)
 		// get right vector 
 		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
 		// add movement in that direction
-		AddMovementInput(Direction, Value);
+		AddMovementInput(Direction, Value/2);
 	}
 }
