@@ -1,0 +1,26 @@
+buton play(cand ma duc langa teren apare pe ecran, e mic)
+
+meniu shop
+	upgrade servos(lower chance of dropping the stone)
+	upgrade rev modules(the autonomy works better)
+	upgrade sensors(the autonomy works better)
+	upgrade motors(you can move faster)
+	get a better 3d printer(your robot parts will have a longer life)
+
+meniu settings
+	video
+		rezolutie
+		view-distance
+		post procesing
+		shadows
+		textures
+		effects
+		-la toate de la video sa fie 4 optiuni(low, medium, high, epic)
+	dificultate
+	crosshair(sa selecteze crosshairul)
+	sounds
+		master
+		music
+		surroundings
+
+	
