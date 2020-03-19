@@ -5,15 +5,8 @@ widgeturi pentru in-game: you have too many minerals, you have to take a mineral
 
 Music for game
 
-widgets: tips actors and widgets are destroyed only after completing widget steps
-
 coming on:mesh si animatii robot- catalin
 
 meniu, settings, si play match
 
 skills(indemanare-cat de mult scapa cubul)
-
-very easy- ai ajutor si ceilalti scapa piese
-easy-ai ajutor si ceilalti nu mai scapa piese
-medium-nu ai ajutor si ceilalti nu scapa piese
-hard-nu ai ajutor dar ambii scapati piese
