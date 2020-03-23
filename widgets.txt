@@ -7,7 +7,7 @@ meniu shop
 	upgrade motors(you can move faster)
 	get a better 3d printer(your robot parts will have a longer life)
 
-meniu settings
+meniu settings-butoanele sa fie sus pentru fiecare sectiune(poza de background si pentru fiecare buton)
 	video
 		rezolutie
 		view-distance
@@ -22,5 +22,8 @@ meniu settings
 		master
 		music
 		surroundings
+	robot(sa aleaga intre cei doi roboti)-niste stats la fiecare
+
+sageata pentru autonomie
 
 	
