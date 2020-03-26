@@ -1,4 +1,4 @@
-buton play(cand ma duc langa teren apare pe ecran, e mic)
+	buton play(cand ma duc langa teren apare pe ecran, e mic)
 
 meniu shop
 	upgrade servos(lower chance of dropping the stone)
