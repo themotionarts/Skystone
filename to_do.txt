@@ -14,3 +14,5 @@ modific cat de bine pun cuburile si cum se misca botii ca e prea greu jocul
 de reparat algoritmul de autonomie
 de terminat widgeturile
 de terminat animatiile la roboti
+animatii la boti
+
