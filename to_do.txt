@@ -5,11 +5,8 @@ widgeturi pentru in-game: you have too many minerals, you have to take a mineral
 
 Music for game
 
-coming on:mesh si animatii robot- catalin
-
 meniu, settings, si play match
 
 skills(indemanare-cat de mult scapa cubul), coins, upgrades
-de reparat algoritmul de autonomie
 de terminat widgeturile
 
