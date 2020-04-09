@@ -10,3 +10,4 @@ meniu, settings, si play match
 skills(indemanare-cat de mult scapa cubul), coins, upgrades
 de terminat widgeturile
 
+sunetele in game: aplauze, roti, muzica start map, 
