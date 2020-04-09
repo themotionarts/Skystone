@@ -26,4 +26,7 @@ meniu settings-butoanele sa fie sus pentru fiecare sectiune(poza de background s
 
 sageata pentru autonomie
 
-	
+	servo- 60 coins
+	motors- 60
+	rev-80
+	printer- 100
