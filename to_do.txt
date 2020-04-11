@@ -3,3 +3,5 @@ widgeturi pentru in-game: you have too many minerals, you have to take a mineral
 sunetele in game: aplauze, roti, muzica start map
 imagini si tips loading screen
 gif motion arts la inceput
+buton de saraci
+
