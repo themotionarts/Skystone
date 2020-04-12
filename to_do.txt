@@ -1,12 +1,4 @@
-widgeturi pentru in-game: you have too many minerals, you have to take a mineral first, settings, quests.
-
-
-Music for game
-
-skills(indemanare-cat de mult scapa cubul), coins, upgrades
-de terminat widgeturile
-
 sunetele in game: aplauze, roti, muzica start map
-widget choose robot
 imagini si tips loading screen
-gamemap de tutorial
+buton de saraci
+
